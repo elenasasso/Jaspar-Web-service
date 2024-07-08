@@ -15,7 +15,7 @@ Each motif is defined by:
 - a JASPAR motif ID
 - the corresponding TF name
 - the Position Frequency Matrix (PFM) of the motif.
-- 
+
 The web service provides the following functions to users:
 - Obtain data for all stored motifs
 - Obtain data for a single, specific stored motif

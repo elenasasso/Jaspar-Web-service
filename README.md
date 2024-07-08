@@ -32,9 +32,9 @@ To start the web service, the internet connection is required to download the Ja
 the script followed by the port number on which one desires to run it (or the -h to get the helper). First download the [JASPAR_WEB_SERVICE.py](JASPAR_WEB_SERVICE.py)
 script and make sure you have python installed.
 
-Example: python JASPAR_WEB_SERVICE.py 5000
+Example: (python JASPAR_WEB_SERVICE.py 5000)
 
-      (python JASPAR_WEB_SERVICE.py -h)
+         (python JASPAR_WEB_SERVICE.py -h)
 
 ## Examples
 

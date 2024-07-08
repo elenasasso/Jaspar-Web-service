@@ -33,9 +33,9 @@ the script followed by the port number on which one desires to run it (or the -h
 script and make sure you have python installed.
 
 Example: 
-(python JASPAR_WEB_SERVICE.py 5000)
+  (python JASPAR_WEB_SERVICE.py 5000)
 
-(python JASPAR_WEB_SERVICE.py -h)
+  (python JASPAR_WEB_SERVICE.py -h)
 
 ## Examples
 
